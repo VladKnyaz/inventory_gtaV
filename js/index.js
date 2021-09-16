@@ -108,7 +108,7 @@ function moveItem(event) {
                         area.append(item);
                     }
                     else {
-                        return console.log('бля');
+                        return;
                     }
                 }
                 else {
